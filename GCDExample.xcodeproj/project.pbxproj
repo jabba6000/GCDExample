@@ -26,6 +26,7 @@
 		16EED5BA1DAE2F9E00D39924 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16EED5BD1DAE2F9E00D39924 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16EED5BF1DAE2F9E00D39924 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16EED5C51DAE4E3F00D39924 /* NSObject_Guide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSObject_Guide.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 				16EED5B11DAE2F9E00D39924 /* AppDelegate.h */,
 				16EED5B21DAE2F9E00D39924 /* AppDelegate.m */,
 				16EED5B41DAE2F9E00D39924 /* ViewController.h */,
+				16EED5C51DAE4E3F00D39924 /* NSObject_Guide.h */,
 				16EED5B51DAE2F9E00D39924 /* ViewController.m */,
 				16EED5B71DAE2F9E00D39924 /* Main.storyboard */,
 				16EED5BA1DAE2F9E00D39924 /* Assets.xcassets */,
@@ -298,6 +300,7 @@
 				16EED5C41DAE2F9E00D39924 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
