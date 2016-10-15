@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		16888FD11DB25AC300BEECD0 /* NSObject_Guide2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSObject_Guide2.h; sourceTree = "<group>"; };
 		16EED5AB1DAE2F9E00D39924 /* GCDExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GCDExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16EED5AF1DAE2F9E00D39924 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		16EED5B11DAE2F9E00D39924 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 				16EED5B21DAE2F9E00D39924 /* AppDelegate.m */,
 				16EED5B41DAE2F9E00D39924 /* ViewController.h */,
 				16EED5C51DAE4E3F00D39924 /* NSObject_Guide.h */,
+				16888FD11DB25AC300BEECD0 /* NSObject_Guide2.h */,
 				16EED5B51DAE2F9E00D39924 /* ViewController.m */,
 				16EED5B71DAE2F9E00D39924 /* Main.storyboard */,
 				16EED5BA1DAE2F9E00D39924 /* Assets.xcassets */,
